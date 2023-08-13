@@ -42,13 +42,13 @@ tax-sales-hurricane.csv
 
 
 
-![Figure 1-1](https://github.com/dhamnanineha0801/AA-Forecast-Final-Project-MLP/main/visualization/Decomposition.png "Figure 1-1")
+![Figure 1-1](https://github.com/dhamnanineha0801/AA-Forecast-Final-Project-MLP/blob/main/visualization/Decomposition.png "Figure 1-1")
 
 
 5. Anomaly detection graph
 
 
-![Figure 1-1](https://github.com/dhamnanineha0801/AA-Forecast-Final-Project-MLP/main/output/Hotel_Urban_CollierDropOut_0.3.png "Figure 1-1")
+![Figure 1-1](https://github.com/dhamnanineha0801/AA-Forecast-Final-Project-MLP/blob/main/output/Hotel_Urban_CollierDropOut_0.3.png "Figure 1-1")
 
 
 ### References
